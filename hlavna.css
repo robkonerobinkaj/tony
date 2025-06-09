@@ -189,8 +189,7 @@ footer {
 }
 .main-nav {
     display: flex;
-    align-items: right;
-    justify-content: space-between;
+    justify-content: space-between, flex-end;
     flex-wrap: wrap;
     flex-direction: row ;
 }
